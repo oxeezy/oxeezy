@@ -99,9 +99,8 @@ A responsive portfolio website showcasing my projects, skills, and experience wi
 
 # 📫 Connect With Me
 
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
-- Email: YOUR_EMAIL
+- LinkedIn: https://www.linkedin.com/in/rayster-landingin-83b6aa182/
+- Email: lrayster732@gmail.com
 
 ---
 
