@@ -26,6 +26,7 @@ I'm passionate about building modern, responsive, and user-friendly web applicat
 ### Back-End
 - PHP
 - MySQL
+- NodeJS
 
 ### Programming Languages
 - Java
